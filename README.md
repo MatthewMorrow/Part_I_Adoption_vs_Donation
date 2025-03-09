@@ -2,7 +2,7 @@
 
 **By:** Matthew Morrow
 
-**Live Demo:** [matthewmorrow.github.io/Part_I_Adoption_vs_Donation/](matthewmorrow.github.io/Part_I_Adoption_vs_Donation/)
+**Live Demo:** [matthewmorrow.github.io/koa-part-i-adoption-vs-donation/](matthewmorrow.github.io/koa-part-i-adoption-vs-donation)
 
 ![Part I - Kitty of Angels Adoption vs. Donation Campaigns](Part%20I%20-%20Kitty%20of%20Angels%20Adoption%20vs.%20Donation%20Campaigns.png)
 
